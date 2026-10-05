@@ -1,2 +1,1 @@
-# Training
-This is my Training and learning 
+README.md: This file acts as the front page or instruction manual for your project. When someone visits your GitHub repository, this is the first thing they see. It typically contains a description of what your code does, how to install it, and how to run it. The .md stands for Markdown, which is a simple way to format text (like making words bold or creating lists).
